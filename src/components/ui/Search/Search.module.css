@@ -1,0 +1,23 @@
+.input {
+	border: 1px solid #efefef;
+	border-radius: 10px;
+	padding: 15px 10px;
+	background-color: #fcfcfd;
+}
+.inside_search {
+	display: flex;
+	align-items: center;
+}
+.searcg_input {
+	border: none;
+	outline: none;
+	font-size: 17px;
+	font-style: normal;
+	font-weight: 400;
+	box-shadow: 15px 20px 45px 0 rgba(233, 233, 233, 0.25);
+	line-height: 19.07px;
+	color: #9aa0b4;
+	background-color: #fcfcfd;
+	min-width: 200px;
+	padding: 10px 15px;
+}

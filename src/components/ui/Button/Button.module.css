@@ -1,0 +1,29 @@
+.button {
+	border-radius: 6px;
+	padding: 8px 30px;
+	font-family: inherit;
+	cursor: pointer;
+	transition: background 0.25s;
+	font-size: 16px;
+	border: none;
+	color: var(--white-color);
+}
+
+.small {
+	font-size: 16px;
+	padding: 10px 25px;
+}
+
+.big {
+	font-size: 15px;
+	text-transform: capitalize;
+	padding: 20px 60px;
+	box-shadow: 0 10px 40px 0 rgba(122, 129, 190, 0.16);
+}
+
+.accent {
+	background: var(--primary-color);
+}
+.accent:hover {
+	background: var(--primary-hover-color);
+}

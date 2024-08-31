@@ -1,0 +1,7 @@
+.HTag {
+	margin: 0;
+	color: var(--text-color);
+	font-style: normal;
+	font-weight: 600;
+	line-height: 120%;
+}
